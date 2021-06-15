@@ -1,5 +1,5 @@
 # MyBookList
-MyBookList is a form which store information of books, that insert by the user. 
+MyBookList is a book list webpage, which store information of books, that insert by the user. 
 This project is for educational purpose.
 
 # Technologies 
