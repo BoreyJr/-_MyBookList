@@ -3,7 +3,9 @@ MyBookList is a form which store information of books, that insert by the user.
 This project is for educational purpose.
 
 # Technologies 
-HTML,CSS,JAVASCRIPT
+* HTML
+* CSS
+* JAVASCRIPT
 
 ## Concept 
 Class & Local Storage 
